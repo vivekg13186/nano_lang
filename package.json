@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "gen": "npx peggy -o nano-parser.js nano.pegjs"
+  },
+  "dependencies": {
+    "peggy": "^4.0.3"
+  }
+}
